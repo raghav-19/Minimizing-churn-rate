@@ -20,3 +20,8 @@ We are in charge of identifying users who are likely to cancel their subscriptio
 ## Dataset
 By subscribing to the membership, our customers have provided us with data on their finances, as well as how they handle those finances through the product. We also have some demographic information we acquired from them during the sign-up process.
 
+## Task Performed
+* Statistical Analysis of numerical variable with dependent variable and correlation matrix.
+* Analyzing Binary Value Column which have unbalanced value distribution.
+* Training Logistic Regression, XG Boost, Random forest Classifier and comparision on performance based of classfication metrics among them .
+* Plotting Feature Importance with feature Selection to make model light weight to get same performace with less features with the help of RFE and Feature Importance.
